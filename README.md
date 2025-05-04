@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./src/lofi-gopher.png" alt="lofi-gopher" style="border-radius: 24px; width: 500px; border: 8px solid #793312;">
+  <img src="./src/lofi-gopher-2.png" alt="lofi-gopher">
 </p>
 
 <p align="center">
