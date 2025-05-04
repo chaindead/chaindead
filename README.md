@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./src/lofi-gopher-3.jpg" alt="lofi-gopher" width="400" />
+  <img src="./src/lofi-gopher-4-min.png" alt="lofi-gopher" width="400" />
 </p>
 
 <p align="center">
